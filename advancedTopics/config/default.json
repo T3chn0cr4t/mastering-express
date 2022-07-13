@@ -1,0 +1,7 @@
+{
+    "AppName " : "Express-App" , 
+    "Mail-server" : {
+        "host":"mail.com",
+        "pass":"app_password"
+    }
+}
